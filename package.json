@@ -1,0 +1,19 @@
+{
+  "name": "open-mdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallen-ecstasy/Open-mDB.git"
+  },
+  "author": "HARSH MISRA (fallen-ecstasy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fallen-ecstasy/Open-mDB/issues"
+  },
+  "homepage": "https://github.com/fallen-ecstasy/Open-mDB#readme"
+}
